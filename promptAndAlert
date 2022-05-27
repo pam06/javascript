@@ -1,0 +1,17 @@
+const name = prompt("What's your name?");
+Type your name and click OK
+
+alert(`Hello ${name}`);
+Displays Hello yourname
+
+
+Prompt a user to enter their first and last name and display the following.
+O/P
+Enter your First Name: Pam
+Enter your Last Name: Chan
+Hello, Pam Chan
+
+Solution:
+let fName = prompt("Enter your First Name:");
+let lName = prompt("Enter your Last Name:");
+alert(`Hello, ${fName} ${lName}`);
