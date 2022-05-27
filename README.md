@@ -1,2 +1,2 @@
 # javascript
-JavaScrpit from very beginning.
+JavaScript from very beginning.
