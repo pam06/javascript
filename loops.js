@@ -50,7 +50,7 @@ for (let i=1; i<=10; i++) {
 }
 
 //FizzBuzz
-//divisible by 3 --> Fizz, divisible by 4 -->Buzz
+//divisible by 3 --> Fizz, divisible by 5 -->Buzz
 
 for (let i=1; i<=100; i++) {
     if (i%3 === 0 && i%5 === 0){
